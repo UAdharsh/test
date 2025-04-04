@@ -1,0 +1,20 @@
+# Node modules
+node_modules/
+
+# Build files
+build/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# Editor settings
+.vscode/
+.idea/
+.DS_Store
+
+# Dependency Lock Files
+package-lock.json
+yarn.lock
